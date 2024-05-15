@@ -16,7 +16,7 @@ My project is an interactive command-line tool designed to assist users in explo
 ## Libraries Used:
 - **sys**: Provides access to some variables used or maintained by the Python interpreter and to functions that interact strongly with the interpreter, allowing me to carry out functions using the `hdb.csv` that I have inputted in my command line. [(Read More)](https://docs.python.org/3/library/sys.html)
 - **csv**: Used to read my csv file. [(Read More)](https://docs.python.org/3/library/csv.html)
-- **tabulate**: The tabulate library is used to generate formatted tables in the output for better readability.
+- **tabulate**: The tabulate library is used to generate formatted tables in the output for better readability. [(Read More)](https://pypi.org/project/tabulate/)
 
 ## Installation:
 To install the required libraries, run the following command:
