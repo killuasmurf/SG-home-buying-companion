@@ -35,14 +35,14 @@ To install the required libraries, run the following command:
 4) User input may be wrong, and the wrong kind of input will reprompt users with error message. For example, if they input an option that is not provided, or they input wrong arguments in the command line.
 
 ## Functionality:
-1) ## `create_menu(data)`:
+1) #### `create_menu(data)`:
 Displays the menu and handles user input.
 
-2) ## `see_neighbourhoods(data)`:
+2) #### `see_neighbourhoods(data)`:
 Reads the data from the CSV file and displays unique neighborhoods.
 ![option 1](option1.jpg)
 
-3) ## `n_cheapest_housings_2023(data)`:
+3) #### `n_cheapest_housings_2023(data)`:
 Reads the data from the CSV file, filters by the year 2023, calculates the top N (chosen by user) cheapest housings for the flat type (chosen by user), and displays the result. Ties are resolved using the Standard Competition Ranking (1224). Results are displayed neatly in a grid table using the tabulate library.
 ![option 2](option2.jpg)
 
