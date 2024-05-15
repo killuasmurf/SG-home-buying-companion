@@ -1,5 +1,5 @@
 # Singapore Home Buying Companion
-## Video Demo: submit50 cs50/problems/2022/python/project
+## Video Demo: [submit50 cs50/problems/2022/python/project](https://youtu.be/ZC3uHaTobV8?si=fDbVI2eIII8E-7lF)
 
 ## Description:
 Are you looking for a housing in Singapore, and have a very tight budget? Look no further than our Singapore Home Buying Companion. Using official data on recent housing prices in Singapore, you can look for the town areas that provide the cheapest housing for you, as well as the average prices of the housing in that area.
