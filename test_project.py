@@ -10,3 +10,4 @@ def test_see_neighbourhoods():
 
 def test_ending():
     assert ending() == "\nThanks for using, bye!"
+
